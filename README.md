@@ -1,2 +1,2 @@
-# Employee-Data-Insights
-"Predict absenteeism with Tableau, Python, and SQL. Analyze employee data for insights. Boost workforce productivity
+# Tabpysql
+A project which collaborates Tableau, Python, SQL to perform Data Analysis on Employees data to predict absenteeism possibilities 
